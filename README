@@ -35,3 +35,10 @@ wanted to create a non trivial example project, in order to test
 github.
 
 Enjoy!!
+
+Software you need in order to compile QtTimer:
+
+- cmake version at least 2.8.0
+
+- Qt4. I have compiled it with 4.6.3, but I think earlier version
+  would be OK as well.
