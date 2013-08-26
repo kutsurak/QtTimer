@@ -1,21 +1,4 @@
-Copyright (C) 2011 Panagiotis Koutsourakis
-This file is part of QtTimer.
-
-QtTimer is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-QtTimer is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with QtTimer.  If not, see <http://www.gnu.org/licenses/>.
-
-
-
+* Description
 QtTimer is a small project that I felt the need to write. The idea is
 that the user can specify a time duration and they will be informed
 after the time passes. The main use for me is to partition my work
@@ -42,3 +25,20 @@ Software you need in order to compile QtTimer:
 
 - Qt4. I have compiled it with 4.6.3, but I think earlier version
   would be OK as well.
+
+* License
+Copyright (C) 2011 Panagiotis Koutsourakis
+This file is part of QtTimer.
+
+QtTimer is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+QtTimer is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with QtTimer.  If not, see <http://www.gnu.org/licenses/>.
